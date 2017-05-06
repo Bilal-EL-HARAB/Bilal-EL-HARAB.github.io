@@ -11,11 +11,12 @@ h2
 div.BoutonBitcoin
 {
 	
-	margin-left : 15px;
+	padding-top : 30%;
+	margin-left : 55%;
 }
 
 div.BoutonExplorer
 {
-	padding-top : 30px;
-	margin-left : 15px;
+	padding-top : 30%;
+	margin-left : 25%;
 }
