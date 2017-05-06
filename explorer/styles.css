@@ -6,5 +6,9 @@ div.BoutonBitcoin
 
 div.BoutonAccueil
 {
-  margin-left : 15px;
+  	margin-left : 15px;
+}
+h1
+{
+	text-align : center;
 }
